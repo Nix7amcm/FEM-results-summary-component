@@ -27,8 +27,8 @@ This is my solution to the [Results summary component challenge on Frontend Ment
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-Fk9kxCyygQ](https://www.frontendmentor.io/solutions/results-summary-component-Fk9kxCyygQ)
+- Live Site URL: [https://nix7amcm.github.io/FEM-results-summary-component/](https://nix7amcm.github.io/FEM-results-summary-component/)
 
 
 ## Built with
